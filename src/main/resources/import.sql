@@ -1,0 +1,3 @@
+INSERT INTO `proyectofinal`.`clientes` (`apellido_cliente`, `dirección`, `nombre_cliente`, `nro_celular`) VALUES ('Ramos', 'sjm', 'Veronica', '8888888');
+INSERT INTO `proyectofinal`.`clientes` (`apellido_cliente`, `dirección`, `nombre_cliente`, `nro_celular`) VALUES ('Vega', 'ate', 'Monica', '3333333');
+INSERT INTO `proyectofinal`.`clientes` (`apellido_cliente`, `dirección`, `nombre_cliente`, `nro_celular`) VALUES ('Montez', 'surco', 'Julia', '7777777');
